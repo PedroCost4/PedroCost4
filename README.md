@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrocost4&label=Profile%20views&color=0e75b6&style=flat" alt="pedrocost4" /> </p>
 
-- 🔭 I’m currently studying **Javascript and BackEnd**
+- 🌱 I’m currently learning **JavaScript And Node**
 
-- 🌱 I’m currently learning **Node and Express**
+- 📫 How to reach me **https://www.linkedin.com/in/pedrohacosta/**
 
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **pedro.costacdc@gmail.com**
+- Email me at: **pedro.costacdc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
