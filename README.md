@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Pedro Costa</h1>
 <h3 align="left">A passionate CS Student from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript And Node**
+- 🌱 I’m currently working with **TypeScript, Node, tRPC, prismaORM, postgreSQL**
 
 - 📫 How to reach me **https://www.linkedin.com/in/pedrohacosta/**
 
